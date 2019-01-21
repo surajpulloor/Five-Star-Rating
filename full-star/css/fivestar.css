@@ -1,0 +1,14 @@
+i.fa-star {
+    color: #b9b9b9;
+    font-size: 10em;
+    cursor: pointer;
+    transition: 0.15s ease-in color;
+}
+
+i.star-highlighted {
+    color: yellow !important;
+}
+
+h2.fiveStarHeading {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

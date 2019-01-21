@@ -1,0 +1,19 @@
+i.star-highlighted {
+    color: yellow !important;
+}
+
+h2.fiveStarHeading {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+i.fa-star-half {
+    color: #b9b9b9;
+    cursor: pointer;
+    font-size: 10em;
+    transition: 0.15s ease-in color;
+}
+
+i.invert {
+    transform: rotateY(180deg);
+    margin-left: -16px;
+}
