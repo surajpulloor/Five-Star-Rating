@@ -7,7 +7,7 @@ A simple implementation of 5-Star Rating in HTML, CSS, Javascript (NO FRAMEWORKS
 
 ## Dependencies
 * Nothing Really, I guess a standard compliant web browser(hopefully Google Chrome/Mozilla Firefox)
-Font Awesome > v4 (for star and half-star icons)
+* Font Awesome > v4 (for star and half-star icons)
 
 ## TODO
 * The code is cluttered a bit, probably make it a bit more modular
